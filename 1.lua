@@ -255,7 +255,7 @@ function UI.MakeWindow(params)
 		
 		tab.Name = Tabi.Name
 		tab.Parent = TabMenu
-		tab.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+		tab.BackgroundColor3 = Color3.fromRGB(150, 100, 200)
 		tab.BorderColor3 = Color3.fromRGB(0, 0, 0)
 		tab.BorderSizePixel = 0
 		tab.Size = UDim2.new(0, 168, 0, 33)
