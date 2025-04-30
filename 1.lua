@@ -275,7 +275,7 @@ function UI.MakeWindow(params)
 		Menu.Name = tab.Name
 		Menu.Parent = Frame
 		Menu.Active = true
-		Menu.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+		Menu.BackgroundColor3 = Color3.fromRGB(220, 50, 200)
 		Menu.BorderColor3 = Color3.fromRGB(0, 0, 0)
 		Menu.BorderSizePixel = 0
 		Menu.Position = UDim2.new(0.305743247, 0, 0, 0)
