@@ -59,7 +59,7 @@ function UI.MakeWindow(params)
 
 	Bar.Name = "Bar"
 	Bar.Parent = VertexUIGUI
-	Bar.BackgroundColor3 = Color3.fromRGB(36, 65, 98)
+	Bar.BackgroundColor3 = Color3.fromRGB(100, 0, 150)
 	Bar.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	Bar.BorderSizePixel = 0
 	Bar.Position = UDim2.new(0.0946509689, 0, 0.119434148, 0)
@@ -77,7 +77,7 @@ function UI.MakeWindow(params)
 	Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	Frame.BorderSizePixel = 0
 	Frame.Position = UDim2.new(0, 0, 0.77272743, 0)
-	Frame.Size = UDim2.new(0, 592, 0, 261)
+	Frame.Size = UDim2.new(0, 400, 0, 261)
 
 	UICorner_2.Parent = Frame
 
