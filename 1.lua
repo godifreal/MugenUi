@@ -63,7 +63,7 @@ function UI.MakeWindow(params)
 	Bar.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	Bar.BorderSizePixel = 0
 	Bar.Position = UDim2.new(0.0946509689, 0, 0.119434148, 0)
-	Bar.Size = UDim2.new(0, 400, 0, 44)
+	Bar.Size = UDim2.new(0, 592, 0, 44)
 
 	UICorner.Parent = Bar
 
@@ -77,7 +77,7 @@ function UI.MakeWindow(params)
 	Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	Frame.BorderSizePixel = 0
 	Frame.Position = UDim2.new(0, 0, 0.77272743, 0)
-	Frame.Size = UDim2.new(0, 400, 0, 261)
+	Frame.Size = UDim2.new(0, 592, 0, 261)
 
 	UICorner_2.Parent = Frame
 
@@ -85,7 +85,7 @@ function UI.MakeWindow(params)
 	UIStroke_2.Parent = Frame
 
 	TextLabel.Parent = Bar
-	TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.BackgroundColor3 = Color3.fromRGB(60, 0, 100)
 	TextLabel.BackgroundTransparency = 1.000
 	TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	TextLabel.BorderSizePixel = 0
