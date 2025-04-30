@@ -73,7 +73,7 @@ function UI.MakeWindow(params)
 	UiDrag.Parent = Bar
 
 	Frame.Parent = Bar
-	Frame.BackgroundColor3 = Color3.fromRGB(36, 65, 98)
+	Frame.BackgroundColor3 = Color3.fromRGB(128, 0, 128)
 	Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	Frame.BorderSizePixel = 0
 	Frame.Position = UDim2.new(0, 0, 0.77272743, 0)
