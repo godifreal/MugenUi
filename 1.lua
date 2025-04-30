@@ -138,7 +138,7 @@ function UI.MakeWindow(params)
 	UIStroke_3.Parent = profil
 
 	ImageLabel.Parent = profil
-	ImageLabel.BackgroundColor3 = Color3.fromRGB(200, 0, 255)
+	ImageLabel.BackgroundColor3 = Color3.fromRGB(30, 85, 140)
 	ImageLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	ImageLabel.BorderSizePixel = 0
 	ImageLabel.Position = UDim2.new(0.0386740342, 0, 0.0810810775, 0)
@@ -153,7 +153,7 @@ function UI.MakeWindow(params)
 
 	name.Name = "name"
 	name.Parent = profil
-	name.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	name.BackgroundColor3 = Color3.fromRGB(30, 100, 180)
 	name.BackgroundTransparency = 1.000
 	name.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	name.BorderSizePixel = 0
