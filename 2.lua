@@ -153,7 +153,7 @@ function UI.MakeWindow(params)
 
 	name.Name = "name"
 	name.Parent = profil
-	name.BackgroundColor3 = Color3.fromRGB(120, 80, 220)
+	name.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
 	name.BackgroundTransparency = 1.000
 	name.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	name.BorderSizePixel = 0
