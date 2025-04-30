@@ -138,7 +138,7 @@ function UI.MakeWindow(params)
 	UIStroke_3.Parent = profil
 
 	ImageLabel.Parent = profil
-	ImageLabel.BackgroundColor3 = Color3.fromRGB(120, 80, 220)
+	ImageLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 	ImageLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	ImageLabel.BorderSizePixel = 0
 	ImageLabel.Position = UDim2.new(0.0386740342, 0, 0.0810810775, 0)
