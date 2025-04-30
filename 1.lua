@@ -128,7 +128,7 @@ function UI.MakeWindow(params)
 
 	profil.Name = "profil"
 	profil.Parent = Frame
-	profil.BackgroundColor3 = Color3.fromRGB(50, 85, 130)
+	profil.BackgroundColor3 = Color3.fromRGB(50, 0, 80)
 	profil.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	profil.BorderSizePixel = 0
 	profil.Position = UDim2.new(0, 0, 0.858237565, 0)
