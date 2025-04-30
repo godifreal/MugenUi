@@ -170,7 +170,7 @@ function UI.MakeWindow(params)
 	TabMenu.Name = "TabMenu"
 	TabMenu.Parent = Frame
 	TabMenu.Active = true
-	TabMenu.BackgroundColor3 = Color3.fromRGB(50, 80, 130)
+	TabMenu.BackgroundColor3 = Color3.fromRGB(75, 0, 130)
 	TabMenu.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	TabMenu.BorderSizePixel = 0
 	TabMenu.Size = UDim2.new(0, 170, 0, 224)
